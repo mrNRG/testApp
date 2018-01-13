@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="hint_ip">192.168.1.5</string>
+
+
+    <string name="btn_connect">Connect</string>
+    <string name="btn_aaa">AAA</string>
+    <string name="btn_bbb">BBB</string>
+    <string name="btn_clear">Clear</string>
+
+    <string name="title_column_name">%d x %s</string>
+
+    <string name="msg_connected_to">Connected to: %s</string>
+    <string name="msg_device_ip">IP: %s</string>
+    <string name="msg_check_wifi">Please check your WiFi connection.</string>
+    <string name="msg_background_run">An app running in background</string>
+    <string name="msg_tap_to_return">Tap to return to the app</string>
+    <string name="msg_server_busy">Server is busy.</string>
+    <string name="title_host">HOST</string>
+    <string name="msg_feature_will_be_later">This feature will be later.</string>
+</resources>
